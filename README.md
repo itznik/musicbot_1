@@ -6,8 +6,8 @@ Bhag Jaa Bhosdike
 
 [Working Voice Chat Music Bot Repo](https://github.com/TheVaders/vc_bot)
 
-Deploy that repo to heroku and type this code in [HellBot_Official_Chat](https://t.me/hellbot_official_chat)
+Deploy that repo to heroku and type this code in [itznik_music](https://t.me/joinchat/ULpERV2PsrTvLigG)
 
 Code :-      
 
-```Gangster + Himanshu = Gay Couples```
+```chala ja bhosdike```
