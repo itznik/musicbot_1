@@ -7,7 +7,7 @@ RUN curl -sL https://deb.nodesource.com/setup_15.x | bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
 RUN cd / && \
-    git clone https://github.com/HellBoy-OP/MusicBot.git && \
+    git clone https://github.com/itznik/musicbot_1.git && \
     cd MusicBot && \
     cp -r /MusicBot/ && \
     pip3 install -U -r requirements.txt
